@@ -1,0 +1,9 @@
+header{
+    background-color:rgba(34, 84, 221, 0.432);
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+img{
+    border-radius: 50%;
+}
